@@ -1,11 +1,10 @@
 # Sawyer McBrayer — Embedded Systems ePortfolio
 
-This site showcases embedded projects. Here they will be displayed.
+This site showcases embedded projects. In this e-portfolio I will take an embedded project and refine it to show more industry level work and technique.
 
 - Email: sawyer.mcbrayer@snhu.edu
-- GitHub: [@sawyerschool][(https://github.com/yourusername)](https://github.com/sawyerschool/)
+- GitHub: @sawyerschool (https://github.com/sawyerschool)
 
-## Featured Projects
-- [Project A — MCU Firmware Refactor](projects/project-a.md)
-- [Project B — Driver + HAL Cleanup](projects/project-b.md)
-- [Project C — IO + PWM Control Demo](projects/project-c.md)
+Featured Project for Review:
+
+Embedded C input/calculation/actuation project.
