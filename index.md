@@ -12,4 +12,7 @@ Featured Project for Review:
 
 Embedded C input/calculation/actuation project.
 Module 4 ZIP
-[Module4](CapstoneSketchModule4.zip)
+[Module 4](CapstoneSketchModule4.zip)
+
+Database EEPROM Example.
+[Module 5](Gumball3000WithEEPROM.ino)
